@@ -9,5 +9,6 @@ if num/2 == int
 else
   yield
 end
+end
 return new_collection
 end
