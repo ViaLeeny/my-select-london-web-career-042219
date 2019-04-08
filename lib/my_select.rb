@@ -5,8 +5,9 @@ new_collection = []
 collection.each do | num | 
 if num/2 == int 
   new_collection << num
-  i += 0 
+  
 end
+i += 0 
 end
 return new_collection
 end
